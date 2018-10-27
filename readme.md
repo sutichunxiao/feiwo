@@ -1,2 +1,3 @@
 ## feiwo
-table --:| a --:| b
+
+table | a | b
